@@ -1,0 +1,18 @@
+.board button{
+	width: 100px;
+	height: 100px;
+	background-color: grey;
+	margin: 1px;
+	border:4px solid black ;
+	border-radius: 50%;
+}
+.board{
+	background-color: lightblue;
+}
+body{
+	background-color: purple;
+	color: white;
+}
+.jumbotron{
+background-color: green;
+}
